@@ -2,6 +2,9 @@
 
 Aplikasi Ionic Vue yang menampilkan nama-nama cryptocurrency dari API Coinlore.
 
+<img width="436" height="806" alt="image" src="https://github.com/user-attachments/assets/5caa3804-40b5-4a96-8c7f-33e5135e2216" />
+
+
 Sumber data:
 
 ```text
